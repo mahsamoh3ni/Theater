@@ -1,0 +1,6 @@
+package theater;
+
+class MemberTest {
+
+
+}
